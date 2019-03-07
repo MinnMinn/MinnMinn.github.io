@@ -1,0 +1,26 @@
+.add_product{
+    float: right;
+    padding: 0px;
+    margin-right: 60px;
+    margin-top: 30px;
+}
+.add_product h3{
+    margin: 18px 0px 36px;
+}
+a{
+    text-decoration: none;
+}
+.add_product button{
+    border: none;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    background: #000000;
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 12px 32px;
+}
+.add_product button:hover,.add_product button:focus{
+    background: coral;
+    color: #ffffff;
+}
